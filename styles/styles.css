@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14, 30, 37);
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+#test{
+    visibility:hidden;
+}
+
+#test h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+#test img{
+    width: 50%;
+    transform: translate(50%);
+}
+
+.star{
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    border-radius: -50px;
+}
